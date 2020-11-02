@@ -1,8 +1,7 @@
 # this is a comments
 def main():
     print("Goodbye World")
-    s = "goodbye"
-    s = s.capitalize()
-    print(s)
+    
+    print("Hello learning community")
 if __name__ == "__main__":
     main()
